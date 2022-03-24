@@ -19,4 +19,11 @@ class NoviceTest {
         assertTrue(Novice.isGreaterThanZero(2));
     }
 
+
+    //sqrNumber
+
+    @Test
+    void sqrNumber_whenNumber4_should16() {
+        assertEquals(16, Novice.sqrNumber(4));
+    }
 }

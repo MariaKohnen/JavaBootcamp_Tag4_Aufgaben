@@ -6,6 +6,7 @@ public class Novice {
         for (int i = 1; i <= 5; i++ ) {
             System.out.println("Sönke Wehnert & Maria Kohnen");
         }
+
     }
 
     public static boolean isGreaterThanZero(int number) {
@@ -19,6 +20,10 @@ public class Novice {
             return true;
         }
          */
+    }
+
+    public static int sqrNumber(int number){
+        return (int) Math.pow(number, 2);
     }
 
 

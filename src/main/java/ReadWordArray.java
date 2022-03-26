@@ -20,6 +20,19 @@ public class ReadWordArray {
        i++;
     }
 
+    /*
+    public static void arrayPlace(int i) {
+        int i = 0;
+        for (int i = 0 ; i <= 10 ; i++ )
+            System.out.println(userInput(i));
+        }
+    public static String userInput() {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Hier den Text eingeben");
+        scanner input = scanner.nextLine();
+    }
+     */
+
 
 
 
